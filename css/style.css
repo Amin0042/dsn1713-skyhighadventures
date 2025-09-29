@@ -1,0 +1,7 @@
+.nav-link,
+.nav-link:hover {
+  background-color: black;
+  color: white;
+  border-radius: 2rem;
+  padding: 1rem 2rem;
+}

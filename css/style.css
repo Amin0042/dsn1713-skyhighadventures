@@ -1,10 +1,8 @@
-.nav-link,
-.nav-link:hover {
-  background-color: black;
-  color: white;
+.btn {
   border-radius: 2rem;
-  padding: 1rem 2rem;
+  padding: 1rem;
 }
-#red-btn {
-  background-color: red;
+.nav-link {
+  background-color: var(--bs-btn-bg);
+  color: var(--bs-btn-color);
 }

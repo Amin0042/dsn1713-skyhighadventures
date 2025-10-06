@@ -7,5 +7,6 @@
   color: var(--bs-btn-color);
 }
 #hero {
-  padding: 10rem;
+  padding-bottom: 20rem;
+  padding-top: 20rem;
 }

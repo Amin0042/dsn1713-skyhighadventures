@@ -6,3 +6,6 @@
   background-color: var(--bs-btn-bg);
   color: var(--bs-btn-color);
 }
+#hero {
+  padding: 10rem;
+}
